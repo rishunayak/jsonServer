@@ -1,3 +1,73 @@
 {
-  "data": []
+  "data": [
+  
+    {
+      "id":1,
+      "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
+      "book_name": "Harry Potter and the Philosopher's Stone",
+      "author": "J. K. Rowling",
+      "genre": "Fiction",
+      "edition": "2021",
+      "publisher": "Bloomsbury",
+      "cost": 1299,
+      "borrowed": false
+    },
+    {
+      "id":2,
+      "image_url": "https://m.media-amazon.com/images/I/517OihiR00L.jpg",
+      "book_name": "WORLD HISTORY",
+      "author": "Krishna Reddy",
+      "genre": "History",
+      "edition": "2022",
+      "publisher": "Bloomsbury",
+      "cost": 1099,
+      "borrowed": true
+    },
+    {
+      "id":2,
+      "image_url": "https://m.media-amazon.com/images/I/517OihiR00L.jpg",
+      "book_name": "WORLD HISTORY",
+      "author": "Krishna Reddy",
+      "genre": "History",
+      "edition": "2022",
+      "publisher": "Bloomsbury",
+      "cost": 1099,
+      "borrowed": true
+    },
+    {
+      "id":3,
+      "image_url": "https://m.media-amazon.com/images/I/71KmjQb+UvL.jpg",
+      "book_name": "World Of Science",
+      "author": "Reddy",
+      "genre": "Science",
+      "edition": "2019",
+      "publisher": "Bloomsbury",
+      "cost": 1699,
+      "borrowed": false
+    },
+    {
+      "id":4,
+      "image_url": "https://m.media-amazon.com/images/I/71oGO1XCq3L.jpg",
+      "book_name": "Science And Technology",
+      "author": "Ravi Agrahari",
+      "genre": "Tech",
+      "edition": "2018",
+      "publisher": "Graw",
+      "cost": 2099,
+      "borrowed": false
+    },
+    {
+      "id":5,
+      "image_url": "https://sahityabhawanpublications.com/wp-content/uploads/2019/12/3191-International-Business-Book-By-Dr-Neeta-Vayadande-For-BCom-Hons-Semester-V-of-Ranchi-University.jpg",
+      "book_name": "International Business",
+      "author": "Neeta Agrahari",
+      "genre": "Business",
+      "edition": "2018",
+      "publisher": "Graw",
+      "cost": 1599,
+      "borrowed": false
+    }
+  
+]
 }
+
