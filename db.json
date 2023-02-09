@@ -24,17 +24,6 @@
       "borrowed": true
     },
     {
-      "id":2,
-      "image_url": "https://m.media-amazon.com/images/I/517OihiR00L.jpg",
-      "book_name": "WORLD HISTORY",
-      "author": "Krishna Reddy",
-      "genre": "History",
-      "edition": "2022",
-      "publisher": "Bloomsbury",
-      "cost": 1099,
-      "borrowed": true
-    },
-    {
       "id":3,
       "image_url": "https://m.media-amazon.com/images/I/71KmjQb+UvL.jpg",
       "book_name": "World Of Science",
